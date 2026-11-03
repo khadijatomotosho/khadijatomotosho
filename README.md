@@ -18,20 +18,20 @@ I'm currently developing my analytical and technical skills through coursework, 
 - Learning to create meaningful dashboards and reports.
 - Developing my ability to communicate data-driven insights.
 
-## 🎯 My Goals
+## My Goals
 
 - Become a skilled professional Data Analyst.
 - Build a strong portfolio of practical projects.
 - Solve real-world problems using data.
 - Continuously learn and improve my analytical skills.
 
-## 📁 My Portfolio
+## My Portfolio
 
 Check out my projects here:
 
-[Data Analytics Portfolio](https://github.com/YOUR-USERNAME/data-analytics-portfolio)
+[Data Analytics Portfolio]
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to learning opportunities, collaboration, and connecting with other data enthusiasts.
 

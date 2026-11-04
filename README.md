@@ -73,5 +73,10 @@ if A > B
 ```
 
 ## My Sample Visualisation
+<img width="738" height="354" alt="download 2" src="https://github.com/user-attachments/assets/da0d0010-47b8-405e-9a1f-a1b2a7f77feb" />
+
+____
+<img width="246" height="123" alt="download 1" src="https://github.com/user-attachments/assets/93d78d02-293e-4781-87c4-cd6e2e7c15a7" />
+
 
 

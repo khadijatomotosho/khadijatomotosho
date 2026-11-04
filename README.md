@@ -65,3 +65,9 @@ Check out my projects here:
 I'm open to learning opportunities, collaboration, and connecting with other data enthusiasts.
 
 Thanks for visiting my profile!
+
+```
+Select A, B, C
+
+if A > B
+```

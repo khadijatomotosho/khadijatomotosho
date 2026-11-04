@@ -73,6 +73,5 @@ if A > B
 ```
 
 ## My Sample Visualisation
-[My charts](images/second.jfif)
 
-[My charts](images/first.jfif)
+
